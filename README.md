@@ -1,5 +1,6 @@
 # LudumDare35
 LudumDare35 entry
+http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=92666
 
 We've got a running duck
 
@@ -11,4 +12,3 @@ Please download the sources from http://sfml-dev.org/ or the lib directly with y
 
 ###Windows
 Check the sources from the Windows branch and use your favorite IDE with SFML2
-# LudumDare35
